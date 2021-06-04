@@ -1,0 +1,782 @@
+/* screen - portfolio */
+
+.portfolio {
+  background-color: #fbfffa;
+  height: 2199px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.portfolio .adobe-xd-adobe-illustrator-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1618px;
+  width: auto;
+}
+.portfolio .adobe-xd-adobe-illustrator-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 489px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1921px;
+  width: auto;
+}
+.portfolio .alyssa-suarez-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-spartan);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: 63.8px;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 66px;
+  width: 335px;
+}
+.portfolio .april-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1330px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 223px;
+  width: auto;
+}
+.portfolio .aprl-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1344px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1432px;
+  width: auto;
+}
+.portfolio .blackboard-app-concept-design-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1435px;
+  transition: all 0.2s ease;
+  width: 338px;
+}
+.portfolio .blackboard-app-concept-design-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.portfolio .coffee-palette-brand-identity-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 522px;
+  transition: all 0.2s ease;
+  width: 338px;
+}
+.portfolio .coffee-palette-brand-identity-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.portfolio .dec-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1342px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 519px;
+  width: auto;
+}
+.portfolio .dec-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1342px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1123px;
+  width: auto;
+}
+.portfolio .figma-adobe-illustrator-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 705px;
+  width: auto;
+}
+.portfolio .figma-after-effects-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 402px;
+  width: auto;
+}
+.portfolio .figma-after-effects-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1005px;
+  width: auto;
+}
+.portfolio .group-255-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 887px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2089px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+.portfolio .group-255-C61RwL:hover {
+
+transform: translate(-5px, 0);
+}
+.portfolio .group-256-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 754px;
+  position: absolute;
+  top: 2089px;
+  width: 115px;
+}
+.portfolio .group-257-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 514px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2089px;
+  transition: all 0.2s ease;
+  width: 232px;
+}
+.portfolio .group-257-C61RwL:hover {
+
+transform: translate(-5px, 0);
+}
+.portfolio .group-258-C61RwL {
+  background-color: transparent;
+  height: 225px;
+  left: 860px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1739px;
+  transition: all 0.2s ease;
+  width: 450px;
+}
+.portfolio .group-258-C61RwL:hover {
+
+transform: translate(12px, 14px);
+}
+.portfolio .group-259-C61RwL {
+  background-color: transparent;
+  height: 2100px;
+  left: 467px;
+  position: fixed;
+  top: 0px;
+  width: 29px;
+}
+.portfolio .group-6-C61RwL {
+  background-color: transparent;
+  height: 42px;
+  left: 75px;
+  pointer-events: auto;
+  position: fixed;
+  top: 278px;
+  transition: all 0.2s ease;
+  width: 171px;
+}
+.portfolio .group-6-C61RwL:hover {
+
+}
+.portfolio .hangdrum-intera-audio-interface-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1122px;
+  transition: all 0.2s ease;
+  width: 338px;
+}
+.portfolio .hangdrum-intera-audio-interface-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.portfolio .herbn-app-concept-design-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 489px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1738px;
+  transition: all 0.2s ease;
+  width: 338px;
+}
+.portfolio .herbn-app-concept-design-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.portfolio .info-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: fixed;
+  text-align: left;
+  top: 338px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.portfolio .info-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.portfolio .info-P79SNn {
+  background-color: transparent;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+.portfolio .javascript-html-css-figma-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1303px;
+  width: auto;
+}
+.portfolio .oct-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1344px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 819px;
+  width: auto;
+}
+.portfolio .oct-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1346px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1735px;
+  width: auto;
+}
+.portfolio .portfolio-2Nxv7x {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto_condensed);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+.portfolio .portfolio-PIEh7b {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.portfolio .portfolio-PIEh7b:hover {
+
+transform: translate(-5px, 0);
+}
+.portfolio .projectconnect-art-instalation-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 223px;
+  transition: all 0.2s ease;
+  width: 335px;
+}
+.portfolio .projectconnect-art-instalation-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.portfolio .rectangle-11-C61RwL {
+  background-color: transparent;
+  height: 240px;
+  left: 859px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 510px;
+  transition: all 0.2s ease;
+  width: 445px;
+}
+.portfolio .rectangle-11-C61RwL:hover {
+
+transform: translate(12px, 14px);
+}
+.portfolio .rectangle-13-C61RwL {
+  background-color: transparent;
+  height: 225px;
+  left: 858px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 1123px;
+  transition: all 0.2s ease;
+  width: 450px;
+}
+.portfolio .rectangle-13-C61RwL:hover {
+
+transform: translate(12px, 14px);
+}
+.portfolio .rectangle-28-8EkmII {
+  background-color: transparent;
+  height: 225px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 450px;
+}
+.portfolio .rectangle-7-C61RwL {
+  background-color: transparent;
+  height: 225px;
+  left: 859px;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  top: 223px;
+  transition: all 0.2s ease;
+  width: 450px;
+}
+.portfolio .rectangle-7-C61RwL:hover {
+
+transform: translate(12px, 14px);
+}
+.portfolio .rectangle-74-C61RwL {
+  background-color: transparent;
+  height: 225px;
+  left: 857px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 826px;
+  transition: all 0.2s ease;
+  width: 450px;
+}
+.portfolio .rectangle-74-C61RwL:hover {
+
+transform: translate(12px, 14px);
+}
+.portfolio .rectangle-75-8EkmII {
+  background-color: #ededed;
+  border: 4px solid var(--black);
+  height: 19px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 155px;
+  width: 127px;
+}
+.portfolio .rectangle-76-C61RwL {
+  background-color: transparent;
+  height: 236px;
+  left: 810px;
+  position: absolute;
+  top: 1431px;
+  width: 467px;
+}
+.portfolio .rectangle-77-C61RwL {
+  background-color: transparent;
+  height: 226px;
+  left: 857px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1436px;
+  transition: all 0.2s ease;
+  width: 450px;
+}
+.portfolio .rectangle-77-C61RwL:hover {
+
+transform: translate(12px, 14px);
+}
+.portfolio .rectangle-80-C61RwL {
+  background-color: var(--black);
+  height: 225px;
+  left: 870px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1137px;
+  width: 450px;
+}
+.portfolio .rectangle-81-C61RwL {
+  background-color: var(--black);
+  height: 225px;
+  left: 869px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 840px;
+  width: 450px;
+}
+.portfolio .rectangle-82-C61RwL {
+  background-color: var(--black);
+  height: 240px;
+  left: 871px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 524px;
+  width: 445px;
+}
+.portfolio .rectangle-83-C61RwL {
+  background-color: var(--black);
+  height: 225px;
+  left: 871px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 237px;
+  width: 450px;
+}
+.portfolio .rectangle-84-C61RwL {
+  background-color: var(--black);
+  height: 225px;
+  left: 869px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1451px;
+  width: 450px;
+}
+.portfolio .rectangle-85-C61RwL {
+  background-color: var(--black);
+  height: 225px;
+  left: 872px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1753px;
+  width: 450px;
+}
+.portfolio .selected-work-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 1.28px;
+  line-height: 86.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  white-space: nowrap;
+  width: 633px;
+}
+.portfolio .summary-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: fixed;
+  text-align: left;
+  top: 228px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.portfolio .summary-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.portfolio .summary-H8gp6p {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+.portfolio .vector-11-H8gp6p {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 156px;
+}
+.portfolio .vector-14-P79SNn {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 61px;
+}
+.portfolio .vector-15-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 487px;
+  position: absolute;
+  top: 784px;
+  width: 911px;
+}
+.portfolio .vector-16-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 487px;
+  position: absolute;
+  top: 1084px;
+  width: 911px;
+}
+.portfolio .vector-17-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 487px;
+  position: absolute;
+  top: 1397px;
+  width: 911px;
+}
+.portfolio .vector-18-2Nxv7x {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 33px;
+}
+.portfolio .vector-21-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 487px;
+  position: absolute;
+  top: 1700px;
+  width: 911px;
+}
+.portfolio .vector-32-qxzPs0 {
+  background-color: transparent;
+  height: 9px;
+  left: -1px;
+  position: absolute;
+  top: 2092px;
+  width: 30px;
+}
+.portfolio .vector-5-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 487px;
+  position: absolute;
+  top: 178px;
+  width: 911px;
+}
+.portfolio .vector-6-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 487px;
+  position: absolute;
+  top: 484px;
+  width: 911px;
+}
+.portfolio .vector-7-qxzPs0 {
+  background-color: transparent;
+  height: 2100px;
+  left: -3px;
+  position: absolute;
+  top: 0px;
+  width: 9px;
+}
+.portfolio .water-tracker-a-t-app-animation-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 487px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 822px;
+  transition: all 0.2s ease;
+  width: 338px;
+}
+.portfolio .water-tracker-a-t-app-animation-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.portfolio .x2019-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1344px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1759px;
+  width: auto;
+}
+.portfolio .x2020-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1342px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 544px;
+  width: auto;
+}
+.portfolio .x2020-QxM5SU {
+  background-color: transparent;
+  height: auto;
+  left: 1342px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1149px;
+  width: auto;
+}
+.portfolio .x2020-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1342px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 843px;
+  width: auto;
+}
+.portfolio .x2020-mzXdH9 {
+  background-color: transparent;
+  height: auto;
+  left: 1342px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1456px;
+  width: auto;
+}
+.portfolio .x2021-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 1330px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 247px;
+  width: auto;
+}

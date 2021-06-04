@@ -1,0 +1,125 @@
+/* screen - home */
+
+.home {
+  background-color: var(--ceramic);
+  height: 818px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.home .connecting-expe-centric-design-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 466px;
+  letter-spacing: 0.60px;
+  line-height: 55.1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 384px;
+  width: 796px;
+}
+.home .group-6-C61RwL {
+  background-color: transparent;
+  height: 42px;
+  left: 76px;
+  pointer-events: auto;
+  position: absolute;
+  top: 247px;
+  transition: all 0.2s ease;
+  width: 158px;
+}
+.home .group-6-C61RwL:hover {
+
+}
+.home .info-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 380px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.home .info-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.home .interaction-des-ased-in-toronto-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 466px;
+  letter-spacing: 1.28px;
+  line-height: 86.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 199px;
+  width: 633px;
+}
+.home .portfolio-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 315px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.home .portfolio-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.home .summary-PIEh7b {
+  background-color: transparent;
+  height: 42px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.home .summary-PIEh7b:hover {
+
+transform: translate(-5px, 0);
+}
+.home .title-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: 71.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 66px;
+  width: 364px;
+}

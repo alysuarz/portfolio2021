@@ -1,0 +1,423 @@
+/* screen - info */
+
+.info {
+  background-color: #fbfffa;
+  height: 1227px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 1440px;
+}
+.info .alyssa-suarez-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-spartan);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: 63.8px;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 66px;
+  width: 335px;
+}
+.info .education-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto_condensed);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 505px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 614px;
+  width: auto;
+}
+.info .george-brown-co-lege-toronto-on-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 506px;
+  letter-spacing: 0.00px;
+  line-height: 22.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 797px;
+  width: 356px;
+}
+.info .group-255-C61RwL {
+  background-color: transparent;
+  height: 16px;
+  left: 887px;
+  pointer-events: auto;
+  position: fixed;
+  top: 1140px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+.info .group-255-C61RwL:hover {
+
+transform: translate(-5px, 0);
+}
+.info .group-256-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 754px;
+  pointer-events: auto;
+  position: fixed;
+  top: 1140px;
+  transition: all 0.2s ease;
+  width: 114px;
+}
+.info .group-256-C61RwL:hover {
+
+transform: translate(-5px, 0);
+}
+.info .group-257-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: 514px;
+  pointer-events: auto;
+  position: fixed;
+  top: 1140px;
+  transition: all 0.2s ease;
+  width: 232px;
+}
+.info .group-257-C61RwL:hover {
+
+transform: translate(-5px, 0);
+}
+.info .group-260-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 73px;
+  left: 505px;
+  pointer-events: auto;
+  position: absolute;
+  top: 914px;
+  transition: all 0.2s ease;
+  width: 191px;
+}
+.info .group-260-C61RwL:hover {
+
+transform: translate(12px, 10px);
+}
+.info .hello-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 852px;
+  letter-spacing: 1.28px;
+  line-height: 86.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: auto;
+}
+.info .i-am-an-interac-and-ux-research-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 852px;
+  letter-spacing: 0.48px;
+  line-height: 37.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 232px;
+  width: 468px;
+}
+.info .info-C61RwL {
+  background-color: transparent;
+  height: 42px;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: left;
+  top: 329px;
+  width: auto;
+}
+.info .info-P79SNn {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto_condensed);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 69px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+.info .interaction-design-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 506px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 759px;
+  white-space: nowrap;
+  width: 354px;
+}
+.info .line-5-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: 505px;
+  position: absolute;
+  top: 731px;
+  width: 436px;
+}
+.info .line-6-C61RwL {
+  background-color: transparent;
+  height: 4px;
+  left: 962px;
+  position: absolute;
+  top: 731px;
+  width: 436px;
+}
+.info .portfolio-2Nxv7x {
+  background-color: transparent;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+.info .portfolio-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: fixed;
+  text-align: left;
+  top: 281px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.info .portfolio-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.info .psychology-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 961px;
+  letter-spacing: 0.00px;
+  line-height: 22.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 756px;
+  white-space: nowrap;
+  width: 224px;
+}
+.info .rectangle-41-C61RwL {
+  background-color: transparent;
+  height: 354px;
+  left: 487px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 136px;
+  width: 318px;
+}
+.info .rectangle-78-pI1RzZ {
+  background-color: var(--ceramic);
+  border: 4px solid var(--black);
+  height: 73px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 189px;
+}
+.info .rectangle-79-C61RwL {
+  background-color: var(--black);
+  height: 73px;
+  left: 518px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 924px;
+  width: 188px;
+}
+.info .resume-pI1RzZ {
+  background-color: transparent;
+  height: 27px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 24px;
+  width: 118px;
+}
+.info .span0-CKNRso {
+
+}
+.info .span0-t90BMy {
+
+}
+.info .span1-CKNRso {
+
+}
+.info .span1-t90BMy {
+
+}
+.info .summary-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 28px;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: fixed;
+  text-align: left;
+  top: 228px;
+  transition: all 0.2s ease;
+  width: auto;
+}
+.info .summary-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.info .summary-H8gp6p {
+  background-color: transparent;
+  height: auto;
+  left: 168px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: auto;
+}
+.info .trent-universit-peterborough-on-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 967px;
+  letter-spacing: 0.00px;
+  line-height: 22.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 796px;
+  width: 356px;
+}
+.info .vector-11-H8gp6p {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 156px;
+}
+.info .vector-14-P79SNn {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 61px;
+}
+.info .vector-15-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 487px;
+  position: absolute;
+  top: 563px;
+  width: 911px;
+}
+.info .vector-17-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 461px;
+  position: fixed;
+  top: 1144px;
+  width: 44px;
+}
+.info .vector-18-2Nxv7x {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 33px;
+}
+.info .vector-7-C61RwL {
+  background-color: transparent;
+  height: 1151px;
+  left: 461px;
+  position: fixed;
+  top: 0px;
+  width: 8px;
+}
+.info .x2015-2018-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 963px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 687px;
+  width: 214px;
+}
+.info .x2019-2022-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 506px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 687px;
+  width: 214px;
+}
+.info:hover {
+
+transform: translate(5px, 0);
+}
